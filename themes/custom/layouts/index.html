@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+{{ partial "head.html" . }}
+
+<body id="home">
+<div class="container-fluid mt-4">
+    <div class="row">
+        <div class="offset-sm-2 col-sm-8 text-center">
+            <h1 class="lucky marker-highlight">
+                Let's Go!
+            </h1>
+            <p class="mods-small">
+                <a href="/">letsgocode.dev</a></h3>
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="offset-sm-2 col-sm-8">
+            <p class="lead">
+                Let's Go! Is a live coding series about the
+                <a href="https://golang.org">Go</a> programming
+                language.
+            </p>
+            <p>
+                We stream every Monday at <u>11am US
+                Pacific time</u> on <a href="https://twitch.tv/arschles">twitch.tv/arschles</a>.
+                <small>
+                    (See <a href="https://time.is/compare/1100am_20_July_2020_in_Portland,_Oregon">time.is</a>
+                    to get that time in your time zone.)
+                </small>
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="offset-sm-2 col-sm-8">
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+
+<div class="container footer mt-5 mb-4">
+{{ partial "footer_copyright_row.html" . }}
+</div>
+{{ partial "footer_scripts.html" . }}
+
+</body>
+</html>

@@ -1,0 +1,12 @@
+name = "lets-go-www"
+license = "MIT"
+licenselink = "https://opensource.org/licenses/MIT"
+description = "Custom Theme for Let's Go!"
+homepage = "https://letsgocode.dev"
+tags = []
+features = []
+min_version = "0.0.1"
+
+[author]
+    name = "Aaron Schlesinger"
+    homepage = "https://github.com/arschles"

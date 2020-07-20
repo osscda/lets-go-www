@@ -1,0 +1,4 @@
+baseURL = "http://letsgocode.dev/"
+languageCode = "en-us"
+title = "Let's Go! Live coding with the Go programming language."
+theme = "custom"
