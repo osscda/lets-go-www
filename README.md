@@ -7,3 +7,5 @@ The code for letsgocode.dev.
 You'll need Hugo version 0.73.0 to run this site locally. To do it, run `hugo server`.
 
 >This document is a work in progress.
+
+(Powered by [Azure Static Web Apps](https://cda.ms/1s5))
