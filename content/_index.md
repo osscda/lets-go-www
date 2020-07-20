@@ -7,6 +7,10 @@
 
 ## Join Us!
 
-We enjoy having an audience that asks questions and leaves comments on the live stream. All questions and comments are welcome, regardless of how basic or complicated you _think_ they are (as long as you follow the [code of conduct](https://opensource.microsoft.com/codeofconduct/)).
+We enjoy having an audience that asks questions and leaves comments on the live stream. 
 
-See you on the stream!
+>All questions and comments are welcome, regardless of how basic or complicated you _think_ they are
+
+(as long as you follow the [code of conduct](https://opensource.microsoft.com/codeofconduct/))
+
+**See you on the stream!**
