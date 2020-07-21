@@ -14,3 +14,5 @@ We enjoy having an audience that asks questions and leaves comments on the live 
 (as long as you follow the [code of conduct](https://opensource.microsoft.com/codeofconduct/))
 
 **See you on the stream!**
+
+>If you missed a stream, you can check out past recordings [on YouTube](https://www.youtube.com/playlist?list=PLwM5r5-wxvTD0htqjwxUPuPjEygCn-pQJ) (older recordings before July 6, 2020 are [in a different place on YouTube](https://www.youtube.com/playlist?list=PLd5PS0DQ17GCdvijjkLObfahEZzsJCAxO))
